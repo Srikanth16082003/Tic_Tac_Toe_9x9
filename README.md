@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/Srikanth160803/multi-mode-tic-tac-toe.git
+git clone https://github.com/Srikanth160803/Tic_Tac_Toe_9x9.git
 cd multi-mode-tic-tac-toe
 Ensure Python and Tkinter are installed on your system.
 Run the main Python file to start the game:
